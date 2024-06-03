@@ -7,4 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".TestingActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Jane jelek"
+        android:textSize="50sp"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
